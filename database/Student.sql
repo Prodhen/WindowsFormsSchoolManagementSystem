@@ -1,0 +1,7 @@
+﻿CREATE TABLE Student (
+	StudentID INT PRIMARY KEY IDENTITY,
+	Name VARCHAR(30),
+	Gender VARCHAR(10),
+	DOB VARCHAR(20)
+)
+GO
